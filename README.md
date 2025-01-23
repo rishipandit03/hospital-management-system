@@ -3,8 +3,7 @@
 
 <pre>
 Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
